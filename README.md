@@ -60,7 +60,7 @@
 
 # 
 
-# This project uses \*\*only open data\*\* from IBGE and ISP-RJ. 
+# This project uses \*\*only open data\*\* from IBGE 
 
 # No restricted microdata or civil registry information is included.
 
@@ -68,11 +68,4 @@
 
 # \## Usage
 
-# 
-
-# ```r
-
-# source("src/sampling.R")
-
-# \# Example: see docs/example.R
 
